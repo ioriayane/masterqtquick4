@@ -1,0 +1,2 @@
+# masterqtquick4
+Qt Quickを使いこなすクロスプラットフォームUIプログラミング3のサンプルソース
