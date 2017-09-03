@@ -1,0 +1,4 @@
+module jp.relog.soundcontrols
+plugin SoundControls
+designersupported
+DialControl 1.0 DialControl.qml
